@@ -1,6 +1,0 @@
-
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù•¾Ò
-O
-java:S3516"9Refactor this method to not always return the same value.(ä®Òž
-b
-java:S3252!"LUse static access with "cn.hutool.core.text.CharSequenceUtil" for "isBlank".(Üâö…

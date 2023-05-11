@@ -1,6 +1,0 @@
-
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù•¾Ò
-U
-java:S1118":Add a private constructor to hide the implicit public one.(âÜõ¯ùÿÿÿÿ
-b
-java:S3252%"LUse static access with "cn.hutool.core.text.CharSequenceUtil" for "isBlank".(×Á»º
