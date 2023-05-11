@@ -1,0 +1,9 @@
+
+`	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(÷ú•„ýÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òæÇÆ
+h
+java:S32521"MUse static access with "cn.hutool.core.text.CharSequenceUtil" for "subAfter".(Ø‘­üýÿÿÿÿ
+f
+java:S32528"KUse static access with "cn.hutool.core.text.CharSequenceUtil" for "format".(²Ýš›ýÿÿÿÿ
+a
+java:S3252="KUse static access with "cn.hutool.core.text.CharSequenceUtil" for "format".(ÒÈ—ð

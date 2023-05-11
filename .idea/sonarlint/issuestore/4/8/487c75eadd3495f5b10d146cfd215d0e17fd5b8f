@@ -1,0 +1,4 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§Ñ“ßüÿÿÿÿ
+_
+java:S3252s"IUse static access with "cn.hutool.core.text.CharSequenceUtil" for "join".(Ê

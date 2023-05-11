@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§Ñ“ßüÿÿÿÿ
+^
+java:S2259º"GA "NullPointerException" could be thrown; "getScore()" can return null.(«¸¢Ä
+`
+java:S2259¯"IA "NullPointerException" could be thrown; "typedTuples" is nullable here.(«ˆ¶ö
+O
+java:S2589¯"8Remove this expression which always evaluates to "false"(«ˆ¶ö
+e
+java:S3252‚"IUse static access with "cn.hutool.core.text.CharSequenceUtil" for "join".(‚íÃÅşÿÿÿÿ
+`
+java:S3252Ã"IUse static access with "cn.hutool.core.text.CharSequenceUtil" for "join".(Ê
