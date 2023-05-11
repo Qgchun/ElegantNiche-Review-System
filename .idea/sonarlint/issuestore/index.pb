@@ -193,3 +193,5 @@ g
 7src/main/java/com/Qgchun/config/WebExceptionAdvice.java,0\1\01e7ef3ce544a0562f5b756e0f4f08304ea58bc3
 b
 2src/main/java/com/Qgchun/XiaoZhongApplication.java,f\a\fab226e49692af5962300205435819b89924d8a6
+\
+,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
